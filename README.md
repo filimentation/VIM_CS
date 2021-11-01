@@ -1,4 +1,5 @@
 # VIM_CS
 VIM Cheat Sheet
+Credits:
 
-Quick Tips on VIM
+https://vim.rtorr.com/
